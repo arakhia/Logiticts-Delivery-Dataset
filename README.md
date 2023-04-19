@@ -61,6 +61,5 @@ Select *, DATEDIFF(MINUTE, created_at, actual_delivery_time) as delivery_time_mi
 From dataset
 ```
 
-<br>
-<br>
-**Disclaimer**: The dashboard is mainly based on the data and its quality. Also, I made few assumptions when required.
+
+> **Disclaimer**: The dashboard is mainly based on the data and its quality. Also, I made few assumptions when required.
