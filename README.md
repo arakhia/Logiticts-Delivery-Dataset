@@ -60,3 +60,7 @@ Select *, DATEDIFF(MINUTE, created_at, actual_delivery_time) as delivery_time_mi
 	) as delivery_shift
 From dataset
 ```
+
+<br>
+<br>
+**Disclaimer**: The dashboard is mainly based on the data and its quality. Also, I made few assumptions when required.
