@@ -61,5 +61,7 @@ Select *, DATEDIFF(MINUTE, created_at, actual_delivery_time) as delivery_time_mi
 From dataset
 ```
 
+## Dashboard
+[Dashboard Tableau](https://public.tableau.com/views/Logistics_DashBoard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 > **Disclaimer**: The dashboard is mainly based on the data and its quality. Also, I made few assumptions when required.
