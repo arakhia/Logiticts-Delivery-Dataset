@@ -8,6 +8,18 @@ This is Data Analysis project merely based on SQL queries and Tableau Visualizat
 * Which stores have higher sales?
 * What are the peak times during the day? Is there a relation bweteen delivery time and peak hours?
 
+## Screenshots
+
+### Users Management
+
+![Logistics_Dashboard_Mockup](Docs/images/Logistics Dashboard Mockup.png)
+
+<br>
+
+![Logistics_Dashboard_Screenshot](Docs/images/Logistics_Dashboard_Screenshot.PNG)
+
+<br>
+
 ## Data Source
 
 [Kaggle - Porter Delivery Time Estimation](https://www.kaggle.com/datasets/ranitsarkar01/porter-delivery-time-estimation)
