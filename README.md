@@ -12,7 +12,7 @@ This is Data Analysis project merely based on SQL queries and Tableau Visualizat
 
 ### Users Management
 
-![Logistics_Dashboard_Mockup](Docs/Images/Logistics Dashboard Mockup.png)
+![Logistics_Dashboard_Mockup](Docs/Images/Logistics_Dashboard_Mockup.png)
 
 <br>
 
