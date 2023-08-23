@@ -10,8 +10,6 @@ This is Data Analysis project merely based on SQL queries and Tableau Visualizat
 
 ## Screenshots
 
-### Users Management
-
 ![Logistics_Dashboard_Mockup](Docs/Images/Logistics_Dashboard_Mockup.png)
 
 <br>
